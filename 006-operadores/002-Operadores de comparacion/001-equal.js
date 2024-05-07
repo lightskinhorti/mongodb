@@ -1,0 +1,1 @@
+db.productos.findOne({precio:{$eq:25}});
